@@ -5,16 +5,7 @@
 ## 🎓 About Me
 - 📚 **4th year undergrad @ Columbia University** - Mathematics, Statistics, and Computer Science
 - 🔬 **AI Researcher** focusing on reasoning, geometric deep learning, and AI safety
-- 💡 Philosophy: *"Solve the problem however you can"*
 - 🚀 Building intelligent systems and exploring the fundamentals of AI
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=charleslwang&theme=github-dark&no-frame=true&column=7)
-
-</div>
 
 ## 📫 Connect With Me
 
