@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Charles L. Wang
+# Hi there! I'm Charles L. Wang
 
 ![Profile Views](https://komarev.com/ghpvc/?username=charleslwang&color=blue&style=flat-square)
 
